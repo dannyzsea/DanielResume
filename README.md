@@ -36,3 +36,17 @@ To Secure a professional career with a reputed software company and serve my bes
 * Extensively used GitHub for Version control.
 * Used Flex box for designing responsive web App.
 * Used Postman to build modify and test API.
+### Projects
+### Skills
+• Object Oriented Programming • Frontend / Backend Development • C# Programming • Java Programming• Database Development • User Interface Design • Entity Framework Core • SQL Server •
+* C#, Java, JavaScript
+* Web: JavaScript, Node.js, HTML5, Bootstrap
+* Web Services: RESTful, JSON,
+* Frameworks: Node.js, Express, Bootstrap, .NET
+* Databases: MySQL, SQL
+* Tools: Visual Studio, Visual Studio Code, IntelliJ, Postman, Trello, Git
+* Platforms: Windows, Linux
+### Education
+#### Bachelor of Science in Electrical and Computer Engineering Ethiopian Institute of Technology Mekelle (EIT-M)
+
+&nbsp;&nbsp;Key Courses: Software Engineering, Database management system, Modern Programming Practices, , Computer Architecture, Operating Systems,Embedded system programming and design, Java programming, C++ programming…
