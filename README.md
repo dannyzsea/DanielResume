@@ -28,3 +28,11 @@ To Secure a professional career with a reputed software company and serve my bes
 * Used Azure DevOps for version Control.
 * Used Azure for deployment.
 * Used Java for backend
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### BHD IT SOLUTIONS PLC |Addis Ababa, Ethiopia | 2017-2020| Part time Frontend Engineer|
+#### Task Performed
+* Designed and Developed UI using react with Redux and tested with jasmine.
+* Discussed with fellow developers to understand existing code and come up with efficient solution for given requirement.
+* Extensively used GitHub for Version control.
+* Used Flex box for designing responsive web App.
+* Used Postman to build modify and test API.
