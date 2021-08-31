@@ -1,4 +1,4 @@
-# Daniel Hagos
+# *Daniel Hagos*
 Seattle, WA • (206)-769-1821 • javatechisland@gmail.com • &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![alt text][1]][2] &nbsp;&nbsp; [![alt text][3]][4] &nbsp;&nbsp; [![alt text][5]][6]
 ___
 ### **Profile**
@@ -12,3 +12,19 @@ ___
 [4]: https://medium.com/@dannyzsea
 [5]: https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white
 [6]: https://github.com/dannyzsea
+### Career Objective
+To Secure a professional career with a reputed software company and serve my best to the organization while growing myself in career and knowledge. With my self-belief and determination, I would like to contribute to technical advancement, adding values to technology, organization, and myself.
+
+### Professional Experience
+#### INFOSYS, USA Feb 21/2021 -JUL 2021  Software Engineer
+#### Task Performed
+* Developed front end using React and angular
+* Implemented Database using SQL Server
+* Writing clean, scalable code using C# Programming language
+* Developed Data Access Layer using Entity Framework Core
+* Developed Services using ASP.Net core web API
+* Styled using CSS and bootstrap.
+* Used HTML to structure a web.
+* Used Azure DevOps for version Control.
+* Used Azure for deployment.
+* Used Java for backend
