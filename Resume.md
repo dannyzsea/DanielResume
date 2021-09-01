@@ -1,10 +1,14 @@
 # *Daniel Hagos*
-[![alt text][7]]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![alt text][1]][2] &nbsp;&nbsp; [![alt text][3]][4] &nbsp;&nbsp; [![alt text][5]][6]
+<kbd>
+<img src="./daniel.jpg" width="100" height="100">
+  </kbd>
+
+
+[![alt text][1]][2] &nbsp;&nbsp; [![alt text][3]][4] &nbsp;&nbsp; [![alt text][5]][6]
 ___
 ### **Profile**
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am Motivated Junior Software Engineer with hands on experience in analysis, design, development, of software applications and systems. I Maximized quality and responsiveness of applications by implementing latest technologies. Skilled in using, Core Java, ReactJs, NodeJs, ExpressJs, mysql and mongoDB.. 
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Motivated, creative, resourceful, and versatile Software Engineer experienced in Agile software development and systems. With knowledge of various programming languages, I am looking for an opportunity to further utilize my skills in a growth-oriented position within the tech industry.
 |:------|
 
 
