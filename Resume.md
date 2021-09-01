@@ -38,7 +38,7 @@ Motivated, creative, resourceful, and versatile Software Engineer with experienc
 * Used Postman to build modify and test API.
 ### Projects
 ### Skills
-| Object Oriented Programming |  Frontend / Backend Development | C# Programming | Java Programming | Database Development | User Interface Design | Entity Framework Core |     SQL Server |
+<strong>|</strong> Object Oriented Programming <strong>|</strong>  Frontend / Backend Development <strong>|</strong> C# Programming <strong>|</strong> Java Programming <strong>|</strong> Database Development <strong>|</strong> User Interface Design <strong>|</strong> Entity Framework Core <strong>|</strong>     SQL Server <strong>|</strong>
 * C#, Java, JavaScript
 * Web: JavaScript, Node.js, HTML5, Bootstrap
 * Web Services: RESTful, JSON,
