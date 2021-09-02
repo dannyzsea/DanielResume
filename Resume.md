@@ -6,7 +6,7 @@
   </kbd>
 
 
-[![alt text][1]][2] &nbsp;&nbsp; [![alt text][3]][4] &nbsp;&nbsp; [![alt text][5]][6]
+[![alt text][1]][2] &nbsp;&nbsp; [![alt text][3]][4] &nbsp;&nbsp; [![alt text][5]][6] &nbsp;&nbsp; [![alt text][8]][9]
 ___
 ### **Profile**
 
@@ -61,3 +61,5 @@ Motivated, creative, resourceful, and versatile Software Engineer with experienc
 [5]: https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white
 [6]: https://github.com/dannyzsea
 [7]: https://media-exp1.licdn.com/dms/image/C4D03AQGGN-A_H5gm4A/profile-displayphoto-shrink_800_800/0/1625596456837?e=1635984000&v=beta&t=NJRRbu6oAqCdBmylzvqMH2gT0EmfaCgvs_lQjgPsEgI
+[8]: https://img.shields.io/badge/Check%20My-Personal%20Website-yellowgreen?style=for-the-badge&logo=appveyor
+[9]: https://danielhagos.web.app/
