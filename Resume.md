@@ -1,10 +1,7 @@
 
 # *Daniel Hagos*
-  
-<kbd>
-<img src="./daniel.jpg" width="100" height="100">
-  </kbd>
-
+#### *Phone :* +1 (206)-578-6519  
+####  *Email :* javatechisland@gmail.com
 
 [![alt text][1]][2]   [![alt text][3]][4]   [![alt text][5]][6] [![alt text][8]][9]
 ___
