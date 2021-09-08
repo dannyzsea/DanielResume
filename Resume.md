@@ -6,7 +6,7 @@
   </kbd>
 
 
-[![alt text][1]][2] <br /> <br /> [![alt text][3]][4] <br /> <br /> [![alt text][5]][6] &nbsp;&nbsp; [![alt text][8]][9]
+[![alt text][1]][2]   [![alt text][3]][4]   [![alt text][5]][6] [![alt text][8]][9]
 ___
 ### Career Objective
 Motivated, creative, resourceful, and versatile Software Engineer with experience in Agile software development and systems. looking for an opportunity to further utilize my skills in a growth-oriented position within a tech industry.
