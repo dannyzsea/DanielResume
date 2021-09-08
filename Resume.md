@@ -6,16 +6,11 @@
   </kbd>
 
 
-[![alt text][1]][2] &nbsp;&nbsp; [![alt text][3]][4] &nbsp;&nbsp; [![alt text][5]][6] &nbsp;&nbsp; [![alt text][8]][9]
+[![alt text][1]][2] <br /> <br /> [![alt text][3]][4] <br /> <br /> [![alt text][5]][6] &nbsp;&nbsp; [![alt text][8]][9]
 ___
-### **Profile**
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Motivated, creative, resourceful, and versatile Software Engineer experienced in Agile software development and systems. With knowledge of various programming languages, I am looking for an opportunity to further utilize my skills in a growth-oriented position within the tech industry.
-|:------|
-
-
 ### Career Objective
 Motivated, creative, resourceful, and versatile Software Engineer with experience in Agile software development and systems. looking for an opportunity to further utilize my skills in a growth-oriented position within a tech industry.
+___
 
 ### Professional Experience
 #### INFOSYS, USA Feb 21/2021 -JUL 2021  Software Engineer
@@ -30,7 +25,7 @@ Motivated, creative, resourceful, and versatile Software Engineer with experienc
 * Used Azure DevOps for version Control.
 * Used Azure for deployment.
 * Used Java for backend
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+___
 #### BHD IT SOLUTIONS PLC |Addis Ababa, Ethiopia | 2017-2020| Part time Frontend Engineer|
 #### Task Performed
 * Designed and Developed UI using react with Redux and tested with jasmine.
@@ -38,7 +33,9 @@ Motivated, creative, resourceful, and versatile Software Engineer with experienc
 * Extensively used GitHub for Version control.
 * Used Flex box for designing responsive web App.
 * Used Postman to build modify and test API.
+___
 ### Projects
+___
 ### Skills
 <strong>|</strong> Object Oriented Programming <strong>|</strong>  Frontend / Backend Development <strong>|</strong> C# Programming <strong>|</strong> Java Programming <strong>|</strong> Database Development <strong>|</strong> User Interface Design <strong>|</strong> Entity Framework Core <strong>|</strong>     SQL Server <strong>|</strong>
 * C#, Java, JavaScript
@@ -48,6 +45,7 @@ Motivated, creative, resourceful, and versatile Software Engineer with experienc
 * Databases: MySQL, SQL
 * Tools: Visual Studio, Visual Studio Code, IntelliJ, Postman, Trello, Git
 * Platforms: Windows, Linux
+___
 ### Education
 #### Bachelor of Science in Electrical and Computer Engineering Ethiopian Institute of Technology Mekelle (EIT-M)
 
