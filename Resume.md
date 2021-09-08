@@ -36,8 +36,7 @@ ___
 * Extensively used GitHub for Version control.
 * Used Flex box for designing responsive web App.
 * Used Postman to build modify and test API.
-___
-### Projects
+
 ___
 ### Skills
 <strong>|</strong> Object Oriented Programming <strong>|</strong>  Frontend / Backend Development <strong>|</strong> C# Programming <strong>|</strong> Java Programming <strong>|</strong> Database Development <strong>|</strong> User Interface Design <strong>|</strong> Entity Framework Core <strong>|</strong>     SQL Server <strong>|</strong>
