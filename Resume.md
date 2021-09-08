@@ -1,7 +1,17 @@
-
-# *Daniel Hagos*
-#### *Phone :* +1 (206)-578-6519  
+<h1 align="center">
+DANIEL HAGOS
+  </h1>
+  
+  <p align="left">  <img alt="DanielHagos" src="https://media-exp1.licdn.com/dms/image/C4E03AQF233zzv2qccg/profile-displayphoto-shrink_800_800/0/1630538297303?e=1635984000&v=beta&t=i9NpVEcKAO02qIJQwH0HIRyZNBlTH7xYtd-QotWsTBE" width="150" height="150" /></p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Daniel,+Hagos;Software+Engineer;&center=true&size=30">
+  </a>
+  
+#### *Phone :* +1 (206)-578-6519 
+####  *Location :* Seattle Washington
 ####  *Email :* javatechisland@gmail.com
+
 
 [![alt text][1]][2]   [![alt text][3]][4]   [![alt text][5]][6] [![alt text][8]][9]
 ___
@@ -44,9 +54,10 @@ ___
 * Platforms: Windows, Linux
 ___
 ### Education
+___
 #### Bachelor of Science in Electrical and Computer Engineering Ethiopian Institute of Technology Mekelle (EIT-M)
 
-&nbsp;&nbsp;Key Courses: Software Engineering, Database management system, Modern Programming Practices, , Computer Architecture, Operating Systems,Embedded system programming and design, Java programming, C++ programming…
+Key Courses: Software Engineering, Database management system, Modern Programming Practices, , Computer Architecture, Operating Systems,Embedded system programming and design, Java programming, C++ programming…
 
 
 [1]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
